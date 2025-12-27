@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a versatile Software Developer with hands-on experience designing and building intelligent, scalable solutions using Python, JavaScript, and TypeScript. My work blends AI innovation, clean code, and user-centric design, spanning from backend systems to modern web interfaces. Open to mid/senior roles in full‑stack or ML engineering — remote / Nairobi, Kenya.
+I’m a versatile Software Developer with hands-on experience designing and building intelligent, scalable solutions using Python, JavaScript, and TypeScript. My work blends AI innovation, clean code, and user-centric design, spanning from backend systems to modern web interfaces. Open to junior/mid roles in full‑stack or ML engineering — remote / Nairobi, Kenya.
 Email: wendywanjiru18@gmail.com · LinkedIn: https://linkedin.com/in/wendy-waweru18
 
 💡 What I Build
